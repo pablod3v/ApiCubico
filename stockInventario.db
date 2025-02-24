@@ -1,0 +1,23 @@
+{
+    "error": 0,
+    "msjError": "",
+    "stock": [
+        {
+            "Codigo": " MB0001542",
+            "Descripcion": "FREIDORA PREMIOS PROGRAMA DE PUNTOS (5-11)",
+            "Lote": "",
+            "UM": "Unidad",
+            "FechaEmision": null,
+            "FechaVencimiento": null,
+            "Cantidad": 0.000,
+            "SubAlmacen": "",
+            "Condicion": "",
+            "Id_UM": 12,
+            "Linea": "CANALES DIGITALES",
+            "Tipo": "",
+            "StockMinimo": 0.00,
+            "StockObjetivo": 0.00,
+            "StockMaximo": 0.00
+        }
+    ]
+}
